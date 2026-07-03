@@ -194,7 +194,7 @@ The dataset contains:
 
 **Vaishanavee Garg**
 
-B.Tech Computer Science Student
+B.Tech+Mtech Computer Science Student
 
 Interests:
 
